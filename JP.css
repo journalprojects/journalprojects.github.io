@@ -35,14 +35,14 @@ header.startup h1 {
 }
 
 .btn {
-  font-weight: 200;
+  font-weight: 700px;
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
 }
 
 .btn-xl {
-  padding: 0.5rem 1rem;
+  padding: 1rem 2rem;
   margin-top:10px; 
 }
 
